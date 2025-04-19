@@ -1,6 +1,7 @@
 # Bar Plot Generation with Seaborn
 ![Figure A: Example Barplot](bar_test_big.png)
 ![Figure B: Example Barplot2](bar_test.png)
+
 This repository contains a Python script that demonstrates how to generate bar plots with swarm points using Seaborn. The script includes two main functionalities:
 1. Generating a simple bar plot comparing two groups (Genotype_A vs. Wildtype) with corresponding swarm points for individual data. A Mann-Whitney U test is performed, and the result is annotated on the plot.
 2. Generating a grouped bar plot showing Genotype_A vs. Wildtype under two different treatments (Treated vs. Untreated), with swarm points to visualize data distribution.
